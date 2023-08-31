@@ -1647,6 +1647,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   #schedule .nav-tabs a {
     padding: 8px 50px;
   }
+
+  #gallery {
+    padding: 30px;
+  }
 }
 
 @media (max-width: 574px) {
