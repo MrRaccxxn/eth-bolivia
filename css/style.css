@@ -233,6 +233,20 @@ h6 {
   min-width: 180px;
 }
 
+#gallery .buy-tickets, #apply-as-speaker .buy-tickets {
+  color: #fff;
+  background: #2b16a3;
+  padding: 7px 22px;
+  border-radius: 50px;
+  border: 2px solid #2b16a3;
+  transition: all ease-in-out 0.3s;
+  font-weight: 500;
+  margin-left: 8px;
+  margin-top: 2px;
+  line-height: 1;
+  font-size: 13px;
+}
+
 /* Nav Menu Arrows */
 
 .sf-arrows .sf-with-ul {
